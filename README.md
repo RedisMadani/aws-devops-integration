@@ -1,4 +1,4 @@
-![226690774-66731923-a2cd-45cc-b387-c959e5b713c1](https://github.com/RedisMadani/aws-devops-integration/assets/136177376/4a96d215-633e-4152-be39-f71be9976334)# AWS DevOps Integration
+# AWS DevOps Integration
 
 ## Introduction
 
