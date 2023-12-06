@@ -28,7 +28,7 @@ This project involves setting up a highly available Jenkins environment on AWS u
 This project focuses on setting up Nginx load balancing using Consul for service discovery.
 
 ### Architecture
-![Service Discovery Architecture](service-discovery.png)
+![image](https://github.com/RedisMadani/aws-devops-integration/assets/136177376/a705c38e-b138-4d6b-8053-0395e8848d8a)
 
 ### Manual Setup
 - **Practical Guide:** Follow the guide for a hands-on approach to learn about the components and workflows involved.
