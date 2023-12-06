@@ -12,7 +12,8 @@ This project encapsulates the integration of DevOps practices on AWS, featuring 
 This project involves setting up a highly available Jenkins environment on AWS using an Auto Scaling Group. 
 
 ### Architecture
-![Jenkins High Availability Architecture](![226690774-66731923-a2cd-45cc-b387-c959e5b713c1](https://github.com/RedisMadani/aws-devops-integration/assets/136177376/4f2ce62c-a91f-40c9-aa78-8147366c199d))
+![Jenkins High Availability Architecture](![image](https://github.com/RedisMadani/aws-devops-integration/assets/136177376/90e8aacf-a617-481e-96e7-942ecb08a56c)
+))
 
 
 ### Setup Process
