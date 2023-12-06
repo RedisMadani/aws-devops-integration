@@ -42,7 +42,7 @@ This project focuses on setting up Nginx load balancing using Consul for service
 Deploy an open-source Java application (e.g., Spring PetClinic) on AWS, leveraging Autoscaling Groups, RDS, and other AWS services.
 
 ### Architecture
-![Java AWS Deployment Architecture](java-aws.png)
+![image](https://github.com/RedisMadani/aws-devops-integration/assets/136177376/98110a8a-b3f0-4684-86c6-a8f21d711254)
 
 ### Workflow
 - **Build and Package:** Build the Java application and use Packer & Ansible for AMI creation.
