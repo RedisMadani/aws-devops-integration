@@ -57,7 +57,7 @@ Deploy an open-source Java application (e.g., Spring PetClinic) on AWS, leveragi
 Configure and deploy a Prometheus Observability Stack, providing insights into the health and performance of your applications and infrastructure.
 
 ### Architecture
-![Prometheus Observability Stack Architecture](image.png)
+![image](https://github.com/RedisMadani/aws-devops-integration/assets/136177376/f6dbab34-f649-4bed-b48f-48bb446b38fb)
 
 ### Setup Process
 - **Docker Configuration:** Deploy Prometheus, Grafana, and other observability tools using Docker.
