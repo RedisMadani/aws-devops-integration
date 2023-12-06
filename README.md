@@ -12,9 +12,7 @@ This project encapsulates the integration of DevOps practices on AWS, featuring 
 This project involves setting up a highly available Jenkins environment on AWS using an Auto Scaling Group. 
 
 ### Architecture
-![Jenkins High Availability Architecture](![image](https://github.com/RedisMadani/aws-devops-integration/assets/136177376/90e8aacf-a617-481e-96e7-942ecb08a56c)
-))
-
+![image](https://github.com/RedisMadani/aws-devops-integration/assets/136177376/e3072bfb-3c5d-4daf-9970-675c2c2fa67b)
 
 ### Setup Process
 - **AWS Account:** A valid AWS account is required.
